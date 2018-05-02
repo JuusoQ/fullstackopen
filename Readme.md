@@ -1,2 +1,2 @@
-== fullstackopen - Juuso Haapanen ==
+# fullstackopen - osat 1.1 - 1.5
 
